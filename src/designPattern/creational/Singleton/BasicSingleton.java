@@ -1,12 +1,5 @@
 package designPattern.creational.Singleton;
 
-import com.sun.jdi.ObjectCollectedException;
-
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-
 public class BasicSingleton {
 
     private BasicSingleton(){
