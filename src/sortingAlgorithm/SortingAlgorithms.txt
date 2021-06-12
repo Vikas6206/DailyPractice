@@ -1,0 +1,33 @@
+BISMQH :-
+======
+Sorting can be done in 2 ways i.e. Internally and Externally
+
+For Internal:-
+        1] Insertion
+                - Insertion sort
+                - Shell sort
+        2] Selection
+                - Selection
+                - Heap
+        3] Exchange
+                - Bubble
+                - Quick
+
+For External:-
+        1] Natural
+        2] Balanced
+        3] Polyphase
+
+
+Not prefered sorting algorithms:
+================================
+Bubble Sort - O(n2)
+Insertion Sort - O(n2)
+Selection Sort - O(n2)
+
+Merge Sort
+Quick Sort
+Heap Sort
+
+
+Source:- Youtube|Sorting|Lec-52
