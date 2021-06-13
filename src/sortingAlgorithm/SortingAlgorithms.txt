@@ -25,8 +25,8 @@ Bubble Sort - O(n2)
 Insertion Sort - O(n2)
 Selection Sort - O(n2)
 
-Merge Sort
 Quick Sort
+Merge Sort
 Heap Sort
 
 
