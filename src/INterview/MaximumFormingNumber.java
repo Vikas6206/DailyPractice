@@ -3,6 +3,11 @@ package INterview;
 import java.util.ArrayList;
 import java.util.Collections;
 
+/**
+ * Given a number =923
+ * another key number =5
+ * insert the key number in netween the given number and get the highest number
+ */
 public class MaximumFormingNumber {
     public static void main(String args[]) {
         int givenNumber = 923;
